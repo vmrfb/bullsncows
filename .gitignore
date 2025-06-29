@@ -1,0 +1,66 @@
+# Android/IntelliJ/Studio
+.idea/
+*.iml
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+*.ap_*
+*.aab
+*.dex
+*.class
+*.log
+*.cxx/
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Mac OS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+*.bat
+*.exe
+*.dll
+*.msi
+*.lnk
+
+# Misc
+*.swp
+*.swo
+*.tmp
+*.orig
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Google Services (if used)
+google-services.json
+
+# Crashlytics (if used)
+crashlytics-build.properties
+
+# JAR files
+*.jar
