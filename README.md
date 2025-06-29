@@ -1,4 +1,4 @@
-# Bulls & Cows Android
+# 🐄🐄🐄 Bulls & Cows Android 🐄🐄🐄
 
 ## Summary
 A little well-known logical game, Bulls & Cows, reimagined for Android. Vibe-coded in Cursor and manually built in Android Studio. Try to build it and deploy to your Android device!
@@ -65,4 +65,6 @@ The development journey included several key phases and challenges:
 
 ---
 
-Feel free to build, test, and contribute! 
+Feel free to build, test, and contribute!
+
+![Happy Cows](images/happy_cows.png) 
